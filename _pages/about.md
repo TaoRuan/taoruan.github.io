@@ -19,13 +19,9 @@ With a strong academic background and diverse work experiences, I am passionate 
 
 ### Work Experience
 - **Research Assistant**, ASPIRE NSF Engineering Research Center  
-  Conducted large-scale analysis of public attitudes towards EV adoption, using **3 million Reddit posts** and **11 million Tweets**, focusing on equity and policy implications.
 - **Machine Learning Engineer Intern**, Suning R&D Center  
-  Developed fraud detection systems using graph networks and predictive models for sales forecasting.
 - **Data Analysis Intern**, Tilting Point  
-  Analyzed user behaviors for **marketing analytics** and **LTV prediction** using Python and SQL.
 - **Space Optimization Modeling Intern**, Philips Lighting Research  
-  Achieved high accuracy in desk occupancy prediction using **Monte Carlo simulations** and PIR sensor data.
 
 ### Key Projects
 - **USGS RISK Dashboard**: Developed a social media monitoring tool for natural hazard detection using MongoDB, Spark, and Kibana.  
@@ -37,14 +33,12 @@ I have co-authored several impactful papers, including:
 - **"Cross-Platform Analysis of Public Responses to Earthquakes"**, Scientific Reports.  
 For a complete list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=krGfkfoAAAAJ&hl=en&oi=ao).
 
-### Technical Skills
-- **Programming**: Python, R, SQL, C/C++  
-- **Tools**: Elasticsearch, MongoDB, Spark, Kafka  
-- **Research Areas**: Natural Language Processing, Machine Learning, Social Computing  
+### Research Areas 
+- Crisis informatics, Natural Language Processing, Machine Learning, Social Computing  
 
 ### Contact
 📫 **Email**: [tao.ruan@colorado.edu](mailto:tao.ruan@colorado.edu)  
 🔗 **LinkedIn**: [linkedin.com/in/taoruan](https://www.linkedin.com/in/taoruan)  
-📍 **Location**: Boulder, CO, USA  
+📍 **Location**: New York, NY, USA  
 
 Feel free to explore my projects, publications, and contributions. Thank you for visiting!
