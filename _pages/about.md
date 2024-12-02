@@ -28,9 +28,14 @@ With a strong academic background and diverse work experiences, I am passionate 
 - **Crisis Informatics**: Conducted cross-platform social network analysis on **earthquake responses**, in collaboration with UC Berkeley and USGS.
 
 ### Publications
-I have co-authored several impactful papers, including:  
-- **"Public Perception of Electric Vehicles on Reddit and Twitter"**, Transportation Research Interdisciplinary Perspectives.  
-- **"Cross-Platform Analysis of Public Responses to Earthquakes"**, Scientific Reports.  
+1. **Ruan, Tao, and Qin Lv.** "Exploring equity perception of electric vehicles from a social media perspective." Transportation Research Interdisciplinary Perspectives 25 (2024): 101103.
+2. **Ruan, Tao, and Qin Lv.** "Public perception of electric vehicles on Reddit and Twitter: A cross-platform analysis." Transportation Research Interdisciplinary Perspectives 21 (2023): 100872. [DOI](https://doi.org/10.1016/j.trip.2023.100872)
+3. **Ruan, Tao, and Qin Lv.** "Public perception of electric vehicles on Reddit over the past decade." Communications in Transportation Research 2 (2022): 100070. [DOI](https://doi.org/10.1016/j.commtr.2022.100070)
+4. **Ruan, Tao, et al.** "Cross-platform analysis of public responses to the 2019 Ridgecrest earthquake sequence on Twitter and Reddit." Scientific Reports 12.1 (2022): 1-14. [DOI](https://doi.org/10.1038/s41598-022-05359-9)
+5. **Ruan, Tao, et al.** "An Analysis of Twitter Responses to the 2019 Ridgecrest Earthquake Sequence." 2020 IEEE Intl Conf on Social Computing & Networking (SocialCom). IEEE, 2020. [DOI](https://ieeexplore.ieee.org/document/9443903)
+6. **Priyam, Tavishi, Tao Ruan, and Qin Lv.** "Demographic-Based Public Perception Analysis of Electric Vehicles on Online Social Networks." Sustainability 16.1 (2023): 305.
+7. **Openshaw, Sophia, Dheeraj Etta, Sounak Maji, Tao Ruan, Khurram Afridi.** "Investigation of Commercial Viability and Public Perception of Electrified Roadways with Dynamic Wireless Charging." 2023 IEEE Wireless Power Technology Conference and Expo (WPTCE). IEEE, 2023. [DOI](https://doi.org/10.1109/WPTCE56855.2023.10215839)
+
 For a complete list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=krGfkfoAAAAJ&hl=en&oi=ao).
 
 ### Research Areas 
