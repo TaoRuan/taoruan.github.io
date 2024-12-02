@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "tao.png"
   name             : "Tao Ruan(阮焘)"
-  pronouns         : # example: "he/him"  
-  "Passionate about using data science and AI to address societal challenges, with expertise in public perception and social media analysis."
+  # pronouns         : # example: "he/him"  
+  bio              : "Passionate about using data science and AI to address societal challenges, with expertise in public perception and social media analysis."
   location         : "New York, NY"
   # employer         : "Red Brick University"
   uri              : # URL
