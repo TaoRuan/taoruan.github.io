@@ -39,7 +39,7 @@ With a strong academic background and diverse work experiences, I am passionate 
 For a complete list, visit my [Google Scholar profile](https://scholar.google.com/citations?user=krGfkfoAAAAJ&hl=en&oi=ao).
 
 ### Research Areas 
-- Crisis informatics, Natural Language Processing, Machine Learning, Social Computing  
+- Social Computing, Electrified Transportation, Crisis Informatics, Natural Language Processing, Machine Learning 
 
 ### Contact
 📫 **Email**: [tao.ruan@colorado.edu](mailto:tao.ruan@colorado.edu)  
