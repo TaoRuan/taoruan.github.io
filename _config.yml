@@ -21,7 +21,7 @@ repository               : "TaoRuan/taoruan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tao.png"
   name             : "Tao Ruan(阮焘)"
   pronouns         : # example: "he/him"  
   "Passionate about using data science and AI to address societal challenges, with expertise in public perception and social media analysis."
